@@ -1,0 +1,33 @@
+.sideb{
+    position: fixed;
+    margin-left: 0px;
+    left: 0px;
+    top: 8px;
+    background-color: white;
+    z-index: 10;
+}
+.navbar{
+    position: fixed;
+    width: 150%;
+    background-color: white;
+    top: 83px;
+    left: 75px;
+    z-index: 10; 
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin: 8px;
+}
+.gallery {
+    margin-top: 190px;
+    margin-left: 150px;
+    display: flex;
+    align-items: flex-start;
+    flex: 0 0 33.3333%;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+
+   
